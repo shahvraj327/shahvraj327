@@ -45,18 +45,6 @@ I like projects that start with a real business question (loan defaults, call ce
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahvraj327&show_icons=true&theme=default&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahvraj327&layout=compact&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahvraj327&theme=default" />
-</p>
-
----
 
 ### Let's Connect
 
