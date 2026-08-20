@@ -1,27 +1,19 @@
-<h1 align="center">Hi, I'm Vraj Shah </h1>
-<h3 align="center">Data Analyst | Turning raw data into decisions</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Vraj%20Shah&fontSize=38&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Excel%20%C2%B7%20Python&descSize=20&descAlign=50" />
 
-<p align="center">
-  <a href="mailto:shahvraj.connect@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shahvraj27/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### About Me
-
-I'm a **Data Analyst Intern** with 8 months of hands-on experience turning messy, real-world datasets into dashboards and reports that answer actual business questions. I work across the full analytics stack — pulling and cleaning data with **SQL** and **Python**, then building interactive dashboards in **Power BI** and **Excel** that stakeholders actually use.
-
-I like projects that start with a real business question (loan defaults, call center efficiency, sales trends) rather than a toy dataset — and I'm currently looking for full-time **Data Analyst** roles where I can keep building that muscle.
-
--  Currently working on: retail & customer analytics projects
--  Currently sharpening: advanced SQL, Python for data analysis (Pandas/NumPy)
--  Ask me about: Power BI dashboards, SQL queries, Excel data analysis
--  Reach me: **shahvraj.connect@gmail.com**
+```js
+const vraj = {
+  role:      "Data Analyst",
+  stack:     ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy"],
+  focus:     "Turning raw data into decisions stakeholders can act on",
+  currently: "Data Analyst Intern @ WayToWeb",
+  looking:   "full-time Data Analyst roles",
+  open:       true
+};
+```
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,23 +26,37 @@ I like projects that start with a real business question (loan defaults, call ce
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
-| Project | Description | Tools |
+| Project | Description | Stack |
 |---|---|---|
-| [ Bank Loan Analysis Report](https://github.com/shahvraj327/Bank-Loan-Analysis-Report) | Power BI dashboard analyzing loan applications, repayments, and customer profiles to surface lending trends. SQL handles data prep/querying. | `SQL` `Power BI` |
-| [ Call Center Analysis](https://github.com/shahvraj327/Call-Center-Analysis-) | Interactive Excel dashboard analyzing 1,000+ call center interactions from 2023 — call volume, handle time, agent performance, and customer satisfaction. | `Excel` `PivotTables` `Slicers` |
-| [ Store Data Analysis](https://github.com/shahvraj327/Store-Data-Analysis) | Excel dashboard exploring 31,000+ apparel orders across 7 marketplaces (Amazon, Flipkart, Myntra, Ajio, Meesho) to uncover sales patterns. | `Excel` `PivotCharts` |
-| [ Retail Sales Analysis](https://github.com/shahvraj327/retail_sales_analysis) | SQL project covering database setup, data cleaning, EDA, and business-question queries (top customers, category performance, sales by shift). | `SQL` `PostgreSQL` |
+|  **Bank Loan Analysis Report** | Power BI dashboard on loan applications, repayments & lending trends | SQL · Power BI |
+|  **Retail Sales Analysis** | Database setup, cleaning, EDA & business-question queries | SQL · PostgreSQL |
+|  **Call Center Analysis** | Dashboard on 1,000+ call interactions — volume, handle time, CSAT | Excel · PivotTables |
+|  **Store Data Analysis** | 31,000+ apparel orders across 7 marketplaces analyzed | Excel · PivotCharts |
 
 ---
 
-
-### Let's Connect
+### GitHub Stats
 
 <p align="center">
-  <a href="mailto:shahvraj.connect@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/shahvraj27/">LinkedIn</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahvraj327&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahvraj327&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahvraj327&theme=radical" />
+</p>
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahvraj27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shahvraj.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to full-time Data Analyst opportunities — feel free to reach out!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=footer" />
