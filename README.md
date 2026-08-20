@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Vraj%20Shah&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20-%20SQL%20-%20Power%20BI%20-%20Excel%20-%20Python&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
-<br>
-
 ```js
 const vraj = {
   role:      "Data Analyst",
