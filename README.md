@@ -6,7 +6,9 @@
 
 <br>
 
+
 ```js
+<pre style =font-size=11.8px !important;>
 const vraj = {
   role:      "Data Analyst",
   stack:     ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy"],
@@ -15,8 +17,8 @@ const vraj = {
   looking:   "full-time Data Analyst roles",
   open:       true
 };
+</pre>
 ```
-
 ---
 
 ### Tech Stack
