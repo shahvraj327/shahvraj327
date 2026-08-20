@@ -6,7 +6,6 @@
 
 <br>
 
-<pre style =font-size=11.8px !important;>
 ```js
 const vraj = {
   role:      "Data Analyst",
@@ -17,7 +16,7 @@ const vraj = {
   open:       true
 };
 ```
-</pre>
+
 ---
 
 ### Tech Stack
