@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header" />
-
-<h1 align="center">Vraj Shah</h1>
-<h3 align="center">Data Analyst &nbsp;|&nbsp; SQL &nbsp;&middot;&nbsp; Power BI &nbsp;&middot;&nbsp; Excel &nbsp;&middot;&nbsp; Python</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=300&section=header&text=Vraj%20Shah&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Excel%20%C2%B7%20Python&descSize=20&descAlignY=55&descAlign=50" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decisions;Building+dashboards+that+get+used;Open+to+full-time+Data+Analyst+roles&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" />
