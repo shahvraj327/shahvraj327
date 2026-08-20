@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Vraj%20Shah&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20-%20SQL%20-%20Power%20BI%20-%20Excel%20-%20Python&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Vraj%20Shah&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20-%20SQL%20-%20Power%20BI%20-%20Excel%20-%20Python&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decisions;Building+dashboards+that+get+used;Open+to+full-time+Data+Analyst+roles&font=Fira+Code&center=true&width=560&height=26&color=58A6FF&vCenter=true&size=22" />
+</p>
+
+<br>
 
 ```js
 const vraj = {
@@ -33,7 +39,7 @@ const vraj = {
 | [**Bank Loan Analysis Report**](https://github.com/shahvraj327/Bank-Loan-Analysis-Report) | Power BI dashboard on loan applications, repayments and lending trends | SQL - Power BI |
 | [**Retail Sales Analysis**](https://github.com/shahvraj327/retail_sales_analysis) | Database setup, cleaning, EDA and business-question queries | SQL - PostgreSQL |
 | [**Call Center Analysis**](https://github.com/shahvraj327/Call-Center-Analysis-) | Dashboard on 1,000+ call interactions — volume, handle time, CSAT | Excel - PivotTables |
-| [**Store Data Analysis**](https://github.com/shahvraj327/Store-Data-Analysis) | 31,000+ apparel orders across 7 marketplaces analyzed | Excel - PivotCharts |
+| [**Store Data Analysis**](https://github.com/shahvraj327/Store-Data-Analysis) | 31,000+ apparel orders across 7 marketplaces analyzed | Excel - Pivot Charts |
 
 ---
 
