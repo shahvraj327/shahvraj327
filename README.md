@@ -7,7 +7,7 @@
 <br>
 
 
-```js
+
 <pre fontsize=11.8px>!important;
 const vraj = {
   role:      "Data Analyst",
@@ -18,8 +18,8 @@ const vraj = {
   open:       true
 };
 </pre>
-```
----
+
+
 
 ### Tech Stack
 
