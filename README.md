@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Vraj%20Shah&fontSize=38&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Excel%20%C2%B7%20Python&descSize=20&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header" />
+
+<h1 align="center">Vraj Shah</h1>
+<h3 align="center">Data Analyst &nbsp;|&nbsp; SQL &nbsp;&middot;&nbsp; Power BI &nbsp;&middot;&nbsp; Excel &nbsp;&middot;&nbsp; Python</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+raw+data+into+decisions;Building+dashboards+that+get+used;Open+to+full-time+Data+Analyst+roles&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" />
+</p>
+
+<br>
 
 ```js
 const vraj = {
@@ -30,23 +39,10 @@ const vraj = {
 
 | Project | Description | Stack |
 |---|---|---|
-|  **Bank Loan Analysis Report** | Power BI dashboard on loan applications, repayments & lending trends | SQL · Power BI |
-|  **Retail Sales Analysis** | Database setup, cleaning, EDA & business-question queries | SQL · PostgreSQL |
-|  **Call Center Analysis** | Dashboard on 1,000+ call interactions — volume, handle time, CSAT | Excel · PivotTables |
-|  **Store Data Analysis** | 31,000+ apparel orders across 7 marketplaces analyzed | Excel · PivotCharts |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahvraj327&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahvraj327&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahvraj327&theme=radical" />
-</p>
+| [**Bank Loan Analysis Report**](https://github.com/shahvraj327/Bank-Loan-Analysis-Report) | Power BI dashboard on loan applications, repayments & lending trends | SQL &middot; Power BI |
+| [**Retail Sales Analysis**](https://github.com/shahvraj327/retail_sales_analysis) | Database setup, cleaning, EDA & business-question queries | SQL &middot; PostgreSQL |
+| [**Call Center Analysis**](https://github.com/shahvraj327/Call-Center-Analysis-) | Dashboard on 1,000+ call interactions — volume, handle time, CSAT | Excel &middot; PivotTables |
+| [**Store Data Analysis**](https://github.com/shahvraj327/Store-Data-Analysis) | 31,000+ apparel orders across 7 marketplaces analyzed | Excel &middot; PivotCharts |
 
 ---
 
@@ -57,6 +53,6 @@ const vraj = {
   <a href="mailto:shahvraj.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Open to full-time Data Analyst opportunities — feel free to reach out!</i></p>
+<p align="center"><i>Open to full-time Data Analyst opportunities — feel free to reach out.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" />
