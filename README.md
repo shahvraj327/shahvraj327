@@ -13,7 +13,7 @@ const vraj = {
   role:      "Data Analyst",
   stack:     ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy"],
   focus:     "Turning raw data into decisions stakeholders can act on",
-  currently: "Data Analyst Intern @ WayToWeb",
+  currently: "Data Analyst @ WayToWeb",
   looking:   "full-time Data Analyst roles",
   open:       true
 };
