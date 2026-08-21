@@ -35,7 +35,7 @@ const vraj = {
 
 ---
 
-<div style="font-size:14px">
+<div style="font-size:13.6px">
 
 ### Featured Projects
 | Project | Description | Stack |
