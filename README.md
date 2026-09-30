@@ -9,8 +9,8 @@
 <div style="font-size:11.9px">
 
 ```js
-const shah vraj 27.3.o4 = {
-  role:      "Data Analyst",
+const shah vraj (22) = {
+  role:      "Data Analyst" | "Business Aalyst",
   stack:     ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy"],
   focus:     "Turning raw data into decisions stakeholders can act on",
   currently: "Data Analyst @ WayToWeb",
