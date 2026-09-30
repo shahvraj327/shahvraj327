@@ -9,7 +9,7 @@
 <div style="font-size:11.9px">
 
 ```js
-const shah vraj = {
+const shah vraj  = {
   role:      "Data Analyst" | "Business Aalyst",
   stack:     ["SQL", "Power BI", "Excel", "Python", "Pandas", "NumPy"],
   focus:     "Turning raw data into decisions stakeholders can act on",
