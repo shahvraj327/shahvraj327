@@ -40,8 +40,8 @@ const shah vraj ={
 ### Featured Projects
 | Project | Description | Stack |
 |---|---|---|
-| [**Bank Loan Analysis Report**](https://github.com/shahvraj327/Bank-Loan-Analysis-Report) | Power BI dashboard on loan applications, repayments and lending trends | SQL - Power BI |
 | [**Marketing Attribution & Funnel Analysis**](https://github.com/shahvraj327/Marketing-Attribution-Customer-Acquisition-Funnel-Analysis.git) | 472K sessions, 32K orders analyzed in T-SQL; found 3x landing-page conversion gap | SQL Server - CTE - Cohort Analysis - Window Functions |
+| [**Bank Loan Analysis Report**](https://github.com/shahvraj327/Bank-Loan-Analysis-Report) | Power BI dashboard on loan applications, repayments and lending trends | SQL - Power BI |
 | [**Call Center Performance Analytics**](https://github.com/shahvraj327/call-center-performance-analytics.git) | 1,000 call records analyzed in Excel; found 3.1x seasonal swing, 25% rep revenue gap | Excel - PivotTables |
 | [**Store Data Analysis**](https://github.com/shahvraj327/Store-Data-Analysis) | 31,000+ apparel orders across 7 marketplaces analyzed | Excel - Pivot Charts |
 
